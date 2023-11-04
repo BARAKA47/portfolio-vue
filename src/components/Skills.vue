@@ -51,11 +51,11 @@ const data = [
     image: "/assets/db.png",
     title:'Databases',
     skills:[
-          {name:'MySQL', image:"src/assets/mysql.png"},
-          {name:'PostgreSQL', image:"src/assets/postgres.png"},
-          {name:'MongoDB', image:"src/assets/mongo.png"},
-          {name:'Redis', image:"src/assets/redis.png"},
-          {name:'Neo4j', image:"src/assets/neo4j.png"},
+          {name:'MySQL', image:"/assets/mysql.png"},
+          {name:'PostgreSQL', image:"/assets/postgres.png"},
+          {name:'MongoDB', image:"/assets/mongo.png"},
+          {name:'Redis', image:"/assets/redis.png"},
+          {name:'Neo4j', image:"/assets/neo4j.png"},
         ]
   },
 ]
