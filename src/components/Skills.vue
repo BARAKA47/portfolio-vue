@@ -12,43 +12,43 @@
 import SkillCard from '@/components/SkillCard.vue'
 const data = [
   {
-    image: "/src/assets/code.png",
+    image: "/assets/code.png",
     title:'Programming languages',
     skills:[
-          {name:'Python', image:"/src/assets/skills/python.png"},
-          {name:'Java', image:"/src/assets/skills/java.png"},
-          {name:'C++', image:"/src/assets/skills/cpp.png"},
-          {name:'Dart', image:"/src/assets/skills/dart.png"},
+          {name:'Python', image:"/assets/skills/python.png"},
+          {name:'Java', image:"/assets/skills/java.png"},
+          {name:'C++', image:"/assets/skills/cpp.png"},
+          {name:'Dart', image:"/assets/skills/dart.png"},
         ]
   },
 
   {
-    image: "/src/assets/comp.png",
+    image: "/assets/comp.png",
     title:'Backend & Cloud',
     skills:[
-          {name:'AWS', image:"/src/assets/skills/aws.png"},
-          {name:'Django', image:"/src/assets/skills/django.png"},
-          {name:'FastAPI', image:"/src/assets/skills/fastapi.png"},
-          {name:'Docker', image:"/src/assets/skills/docker.png"},
-          {name:'GraphQL', image:"/src/assets/skills/dart.png"},
-          {name:'Git', image:"/src/assets/skills/git.png"},
-          {name:'Linux', image:"/src/assets/skills/linux.png"},
+          {name:'AWS', image:"/assets/skills/aws.png"},
+          {name:'Django', image:"/assets/skills/django.png"},
+          {name:'FastAPI', image:"/assets/skills/fastapi.png"},
+          {name:'Docker', image:"/assets/skills/docker.png"},
+          {name:'GraphQL', image:"/assets/skills/dart.png"},
+          {name:'Git', image:"/assets/skills/git.png"},
+          {name:'Linux', image:"/assets/skills/linux.png"},
         ]
   },
 
   {
-    image: "/src/assets/phone.png",
+    image: "/assets/phone.png",
     title:'Mobile and Frontend',
     skills:[
-          {name:'Vuejs', image:"/src/assets/skills/vue.png"},
-          {name:'Flutter', image:"/src/assets/skills/flutter.png"},
-          {name:'HTML', image:"/src/assets/skills/html-5.png"},
-          {name:'CSS', image:"/src/assets/skills/css-3.png"},
+          {name:'Vuejs', image:"/assets/skills/vue.png"},
+          {name:'Flutter', image:"/assets/skills/flutter.png"},
+          {name:'HTML', image:"/assets/skills/html-5.png"},
+          {name:'CSS', image:"/assets/skills/css-3.png"},
         ]
   },
 
   {
-    image: "/src/assets/db.png",
+    image: "/assets/db.png",
     title:'Databases',
     skills:[
           {name:'MySQL', image:"src/assets/skills/mysql.png"},
