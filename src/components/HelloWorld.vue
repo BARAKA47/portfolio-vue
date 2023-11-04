@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <v-responsive class="align-center text-center py-16">
-      <v-img src="src/assets/me4.png" width="300px" height="300px%" class="mx-auto"></v-img>
+      <v-img src="/src/assets/me4.png" width="300px" height="300px%" class="mx-auto"></v-img>
       <h1 class="title"> Hi, I'm Nehad </h1>
       <h1 class="poppins"> an enthusiastic software engineer</h1>
       <v-btn class="ma-2" variant="text" icon="mdi-twitter" color="white" size="x-large" href="https://x.com/NehadYounis1" target="_blank"></v-btn>

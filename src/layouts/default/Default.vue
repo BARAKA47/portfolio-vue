@@ -1,6 +1,6 @@
 <template>
   <v-app class="appbg">
-    <v-img src="src/assets/meteors5.gif" class="meteors" :style="{opacity: bgopacity}"></v-img>
+    <v-img src="/src/assets/meteors5.gif" class="meteors" :style="{opacity: bgopacity}"></v-img>
     <v-img class="background" :style="{opacity: bgopacity}"></v-img>
 
     <v-container>
@@ -94,7 +94,7 @@ body {
 .background {
   content: "";
   position: fixed;
-  background: url(src/assets/milky.jpg);
+  background: url(/src/assets/milky.jpg);
   background-size: cover;
   background-position:center;
   background-attachment: fixed;

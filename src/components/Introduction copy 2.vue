@@ -14,26 +14,26 @@
 
             <li>
               <ul class="ring-1">
-                <li><v-img src= "src/assets/skills/aws.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/docker.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/graphql.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/linux.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/git.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/aws.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/docker.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/graphql.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/linux.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/git.png" class="orbit-icon fa invert"></v-img></li>
               </ul>
             </li>
             <li>
               <ul class="ring-2">
-                <li><v-img src= "src/assets/skills/html-5.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/css-3.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/vue.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/flutter.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/html-5.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/css-3.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/vue.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/flutter.png" class="orbit-icon fa invert"></v-img></li>
               </ul>
             </li>
             <li>
               <ul class="ring-3">
-                <li><v-img src= "src/assets/skills/python.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/cpp.png" class="orbit-icon fa invert"></v-img></li>
-                <li><v-img src= "src/assets/skills/java.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/python.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/cpp.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/java.png" class="orbit-icon fa invert"></v-img></li>
               </ul>
             </li>
 
