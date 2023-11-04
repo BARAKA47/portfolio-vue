@@ -30,7 +30,7 @@ const data = [
           {name:'Django', image:"/assets/django.png"},
           {name:'FastAPI', image:"/assets/fastapi.png"},
           {name:'Docker', image:"/assets/docker.png"},
-          {name:'GraphQL', image:"/assets/dart.png"},
+          {name:'GraphQL', image:"/assets/graphql.png"},
           {name:'Git', image:"/assets/git.png"},
           {name:'Linux', image:"/assets/linux.png"},
         ]

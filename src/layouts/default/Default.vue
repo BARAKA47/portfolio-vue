@@ -49,6 +49,18 @@
     <v-img v-if="false" src="/src/assets/snake.jpg"></v-img>
     <v-img v-if="false" src="/src/assets/udacity.png"></v-img>
     <v-img v-if="false" src="/src/assets/wordle.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/wordle.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/django.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/fastapi.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/dart.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/mysql.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/postgres.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/mongo.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/neo4j.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/redis.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/git.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/linux.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/dart.jpg"></v-img>
   </v-app>
 </template>
 
