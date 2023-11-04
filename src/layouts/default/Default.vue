@@ -56,6 +56,7 @@
     <v-img v-if="false" src="/src/assets/skills/mongo.png"></v-img>
     <v-img v-if="false" src="/src/assets/skills/neo4j.png"></v-img>
     <v-img v-if="false" src="/src/assets/skills/redis.png"></v-img>
+    <v-img v-if="false" src="/src/assets/skills/git2.png"></v-img>
     <v-img v-if="false" src="/src/assets/skills/git.png"></v-img>
     <v-img v-if="false" src="/src/assets/skills/linux.png"></v-img>
     <v-img v-if="false" src="/src/assets/skills/dart.png"></v-img>
