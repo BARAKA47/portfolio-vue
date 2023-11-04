@@ -49,7 +49,6 @@
     <v-img v-if="false" src="/src/assets/snake.jpg"></v-img>
     <v-img v-if="false" src="/src/assets/udacity.png"></v-img>
     <v-img v-if="false" src="/src/assets/wordle.jpg"></v-img>
-    <v-img v-if="false" src="/src/assets/skills/wordle.jpg"></v-img>
     <v-img v-if="false" src="/src/assets/skills/django.jpg"></v-img>
     <v-img v-if="false" src="/src/assets/skills/fastapi.jpg"></v-img>
     <v-img v-if="false" src="/src/assets/skills/dart.jpg"></v-img>
