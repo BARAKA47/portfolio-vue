@@ -29,9 +29,15 @@ export default defineConfig({
       },
     }),
   ],
-  // build:{
-  //   outDir: "build"
-  // },
+  build: {
+    rollupOptions: {
+      output: {
+        entryFileNames: `assets/[name].js`,
+        chunkFileNames: `assets/[name].js`,
+        assetFileNames: `assets/[name].[ext]`
+      }
+    }
+  },
   define: { 'process.env': {} },
   resolve: {
     alias: {
