@@ -28,6 +28,27 @@
       
 
     </v-container>
+    <v-img v-if="false" src="/src/assets/agency.png"></v-img>
+    <v-img v-if="false" src="/src/assets/changdle.png"></v-img>
+    <v-img v-if="false" src="/src/assets/code.png"></v-img>
+    <v-img v-if="false" src="/src/assets/comp.png"></v-img>
+    <v-img v-if="false" src="/src/assets/db.png"></v-img>
+    <v-img v-if="false" src="/src/assets/dice.png"></v-img>
+    <v-img v-if="false" src="/src/assets/dk.png"></v-img>
+    <v-img v-if="false" src="/src/assets/entr.png"></v-img>
+    <v-img v-if="false" src="/src/assets/laika.png"></v-img>
+    <v-img v-if="false" src="/src/assets/microdeep.png"></v-img>
+    <v-img v-if="false" src="/src/assets/microship.png"></v-img>
+    <v-img v-if="false" src="/src/assets/otani.png"></v-img>
+    <v-img v-if="false" src="/src/assets/oxygen.png"></v-img>
+    <v-img v-if="false" src="/src/assets/phone.png"></v-img>
+    <v-img v-if="false" src="/src/assets/random.png"></v-img>
+    <v-img v-if="false" src="/src/assets/red.png"></v-img>
+    <v-img v-if="false" src="/src/assets/reds.png"></v-img>
+    <v-img v-if="false" src="/src/assets/rov.png"></v-img>
+    <v-img v-if="false" src="/src/assets/snake.jpg"></v-img>
+    <v-img v-if="false" src="/src/assets/udacity.png"></v-img>
+    <v-img v-if="false" src="/src/assets/wordle.jpg"></v-img>
   </v-app>
 </template>
 
