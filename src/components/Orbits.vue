@@ -14,7 +14,9 @@
                 <li><v-img src= "/src/assets/skills/docker.png" class="orbit-icon fa invert"></v-img></li>
                 <li><v-img src= "/src/assets/skills/graphql.png" class="orbit-icon fa invert"></v-img></li>
                 <li><v-img src= "/src/assets/skills/linux.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/django.png" class="orbit-icon fa invert"></v-img></li>
                 <li><v-img src= "/src/assets/skills/git.png" class="orbit-icon fa invert"></v-img></li>
+                <li><v-img src= "/src/assets/skills/postgres.png" class="orbit-icon fa invert"></v-img></li>
               </ul>
             </li>
             <li>
@@ -59,7 +61,7 @@
 
 
 $orbitItemSize: 2em;
-$map: (ring-0: 4, ring-1: 5, ring-2: 4, ring-3: 3);
+$map: (ring-0: 4, ring-1: 7, ring-2: 4, ring-3: 3);
 $lastRing: 3;
 
 
