@@ -46,7 +46,7 @@ const data = [
       },
 
       {
-        color:'#FFBEF8',
+        color:'#ff79c5',
         title: 'Wishify',
         subtitle: 'Platform - Under development',
         short: "You deserve what you wish for",
