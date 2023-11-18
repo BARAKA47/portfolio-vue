@@ -7,7 +7,7 @@
       <v-btn class="ma-2" variant="text" icon="mdi-twitter" color="white" size="x-large" href="https://x.com/NehadYounis1" target="_blank"></v-btn>
       <v-btn class="ma-2" variant="text" icon="mdi-github" color="white" size="x-large" href="https://github.com/nehadyounis" target="_blank"></v-btn>
       <v-btn class="ma-2" variant="text" icon="mdi-linkedin" color="white" size="x-large" href="https://linkedin.com/in/nehadyounis" target="_blank"></v-btn>
-      <v-btn class="ma-2" variant="text" icon="mdi-email" color="white" size="x-large" href="emailto:nehadyounice@gmail.com" target="_blank"></v-btn>
+      <v-btn class="ma-2" variant="text" icon="mdi-email" color="white" size="x-large" href="mailto:nehadyounice@gmail.com" target="_blank"></v-btn>
     </v-responsive>
   </v-container>
 </template>

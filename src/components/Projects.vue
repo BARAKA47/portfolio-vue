@@ -32,17 +32,27 @@ const data = [
         short: 'Automated TB diagnosis via Embedded Deep learning',
         long: 'As part of my graduation project at the Faculty of Engineering, my team and I designed and implemented an intelligent microscope using 3D printing and Embedded Deep Learning. The device is capable of automatically detecting the presence of tuberculosis (TB) in a sputum sample, while minimizing the need for human intervention.',
         image: '/assets/microdeep.png',
-        actions:[{name:'Website', to:"https://redbloodapp.com"}, {name:"Download App", to:'https://redblood.app.link'}]
+        actions:[{name:'Know More', to:"https://drive.google.com/file/d/17sSHDEe1qEqwJM7uStB9OHlRjk8Kai7o/view?usp=share_link"}]
       },
       
       {
         color:'#732905',
-        title: 'Liaka',
-        subtitle: 'Software Solution',
-        short: 'A Pets Adoption Platform',
+        title: 'Laika',
+        subtitle: 'Platform - Under development',
+        short: 'A Pet Adoption Platform',
         long: 'Laika is app for pet owners that allow users to adopt pets and share media content with other pet owners.',
         image: '/assets/laika.png',
-        actions:[{name:'Website', to:"https://redbloodapp.com/laika/index.html"}]
+        actions:[{name:'Demo', to:"https://redbloodapp.com/laika/index.html"}]
+      },
+
+      {
+        color:'#FFBEF8',
+        title: 'Wishify',
+        subtitle: 'Platform - Under development',
+        short: "You deserve what you wish for",
+        long: "Enough perfumes? Wishify lets you create a wishlist to share with your friends, so that you can receive gifts that you actually want",
+        image: '/assets/snake.jpg',
+        actions:[{name:"Website", to:'https://wishify.vercel.app'}]
       },
 
       {
@@ -103,7 +113,7 @@ const data = [
         image: '/assets/snake.jpg',
         actions:[{name:"Github", to:'https://github.com/nehadyounis/Snake-on-Arduino'}]
       },
-
+      
 ]
 
 </script>
