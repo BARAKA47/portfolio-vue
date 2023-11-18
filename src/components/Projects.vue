@@ -51,7 +51,7 @@ const data = [
         subtitle: 'Platform - Under development',
         short: "You deserve what you wish for",
         long: "Enough perfumes? Wishify lets you create a wishlist to share with your friends, so that you can receive gifts that you actually want",
-        image: '/assets/snake.jpg',
+        image: '/assets/wishify.png',
         actions:[{name:"Website", to:'https://wishify.vercel.app'}]
       },
 
@@ -76,7 +76,7 @@ const data = [
       },
 
       {
-        color:'#137305',
+        color:'#c79200',
         title: "Wordle Analysis",
         subtitle: 'Data analysis',
         short: 'What is the best word to start wordle with?',
