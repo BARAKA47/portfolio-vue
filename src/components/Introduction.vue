@@ -1,7 +1,7 @@
 <template>
   <v-container class="all">
           <div>
-          <p class="poppins title"> I code, and I create mighty thigns </p>
+          <p class="poppins title"> I code, and I create mighty things </p>
           <p class="poppins myp text-justify">A software engineer with experience in several programming languages as well as a background in entrepreneurship. Graduated from the Faculty of Engineering, Computer Department. A natural problem solver who is keen on finding efficient and durable solutions. Close to 10 years of coding experience in a personal and professional capacity.</p>
           </div>
   </v-container>
